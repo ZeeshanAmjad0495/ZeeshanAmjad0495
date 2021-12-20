@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeeshanAmjad0495
 - 👀 I’m interested in Web Development and Artificial Intelligence.
-- 🌱 I’m currently learning Web Development. To be more specific I'm learning Javascript and React.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: zeeshan04956@gmail.com 
 
