@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeeshanAmjad0495
+- 👋 Hi, I’m Zeeshan Amjad
 - 👀 I’m interested in Web Development and Artificial Intelligence.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
