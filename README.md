@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Zeeshan Amjad
 - 👀 I work as an Software Automation Engineer
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: zeeshan04956@gmail.com 
 
 <!---
