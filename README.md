@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Zeeshan Amjad
 - 👀 I work as a Software Automation Engineer
-- 🌱 I’m currently learning new automation and web scraping technologies.
+- 🌱 Experienced in Test Automation. Tools that I have worked with: Cypress, Graffana K6, Locust, Puppeteer, Playwright
+- Programming Languages I have worked in: Python, Javascript, Typescript.
 - 📫 How to reach me: zeeshan04956@gmail.com
 - LinkedIn: https://www.linkedin.com/in/zeeshan-amjad-bb08ab185/ 
 
