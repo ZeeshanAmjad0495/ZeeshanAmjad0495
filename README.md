@@ -6,7 +6,7 @@
   red/green.
 
   🌍 Lahore, Pakistan — open to **Gulf (UAE / KSA / Qatar) & Remote** SDET / QA Automation / AI-QA roles
-  🔗 Portfolio: https://portfolio-lyart-three-43.vercel.app/ · in/zeeshan-amjad-bb08ab185
+  🔗 Portfolio: https://zeeshanamjad.website/ · in/zeeshan-amjad-bb08ab185
 
   ## 🧪 What I do
   - **Test automation frameworks** — Playwright, Cypress, Selenium, Puppeteer; tool-agnostic, page-object & contract-driven design
