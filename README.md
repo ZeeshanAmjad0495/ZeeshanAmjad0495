@@ -29,7 +29,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **[sentinel-e2e](https://github.com/ZeeshanAmjad0495/sentinel-e2e)** | Tool-agnostic E2E automation framework — analyzable failures, built for scale and AI integration | TypeScript · Playwright |
-| **[ForgeLoop](https://github.com/ZeeshanAmjad0495/Forge-Loop)** | Human-supervised agentic SDLC/STLC control plane with deterministic QA gates | Python · FastAPI · React |
+| **[ForgeLoop](https://github.com/ZeeshanAmjad0495/Forge-Loop)** | Human-supervised agentic SDLC/STLC control plane with deterministic QA gates | Python · FastAPI |
 | **[webintel-ai](https://github.com/ZeeshanAmjad0495/webintel-ai)** | Async web-intelligence service: scraping + change detection | Python · FastAPI |
 | **[Kayak-Cypress-Tests](https://github.com/ZeeshanAmjad0495/Kayak-Cypress-Tests)** | End-to-end UI test suite in Cypress | JavaScript · Cypress |
 | **[ProbePilot](https://github.com/ZeeshanAmjad0495/ProbePilot)** | Endpoint monitoring with health checks & incident tracking | Python · FastAPI |
